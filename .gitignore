@@ -1,0 +1,9 @@
+﻿node_modules/
+.expo/
+.expo-shared/
+*.log
+.DS_Store
+android/app/build/
+ios/build/
+venv/
+.env  # If you have a real .env file with secrets, ignore it
