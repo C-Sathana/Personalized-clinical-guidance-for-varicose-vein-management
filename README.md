@@ -1,6 +1,63 @@
-# Welcome to your Expo app 👋
+This project presents an AI-powered system for early detection and management of varicose veins using smartphone-acquired images. The solution automatically classifies disease severity using deep learning and provides personalized clinical guidance, preventive care, and specialist referrals, enabling non-invasive and accessible healthcare screening.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🎯 Objectives
+
+Automatically detect varicose veins from leg images
+
+Classify disease stages using the CEAP (C0–C6) standard
+
+Provide stage-specific remedial and preventive guidance
+
+Enable location-based specialist referrals
+
+Support early intervention without specialized diagnostic equipment
+
+🧠 System Architecture
+
+Frontend Layer: Mobile/Web interface for image capture
+
+Image Processing: Normalization, enhancement, and augmentation
+
+Feature Extraction & Fusion:
+
+MobileNetV2
+
+EfficientNet
+
+Vision Transformer (ViT)
+
+Swin Transformer
+
+Inference Engine: Weighted ensemble for accurate classification
+
+Guidance Engine: Personalized advice, alerts, and expert recommendations
+
+⚙️ Methodology
+
+Capture leg image via smartphone
+
+Preprocess image (resize, normalize, enhance)
+
+Extract deep features using CNN and Transformer models
+
+Perform varicose vein detection and CEAP stage prediction
+
+Provide personalized guidance or preventive advice
+
+Store assessment history and trigger alerts for severe cases
+
+📊 Results
+
+Achieved ~96.9% validation accuracy
+
+Real-time inference (<2 seconds per image)
+
+Robust performance under varying lighting and image quality
+
+Suitable for mobile deployment and rural healthcare use.
+
+## App
+![Map](<App (6).jpg>) ![Register Page ]![alt text](image.png)(<App (1).jpg>) ![Successful](<App (2).jpg>) ![Login in]![alt text](image-1.png)(<App (3).jpg>) ![Permission](<App (4).jpg>) ![Permission] (<App (5).jpg>)![Home UI ](image-2.png) ![Scanning](image-3.png)!![Result](image-4.png)![Recommentation](image-5.png)[Training](<Screenshot (1114).png>)
 
 ## Get started
 
