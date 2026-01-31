@@ -12,7 +12,10 @@ This project presents an AI-powered system for early detection and management of
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/53919d2f-0383-4600-9ec6-b4eacb7d1937" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/ba0927d6-fb88-4f17-b4d3-f9a86a666385" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/c0083740-7f5c-4ade-97a3-95f900d8b12c" />
-<img width="265" height="557" alt="image" src="https://github.com/user-attachments/assets/5735f198-0756-43b8-842b-1fa0f4b9604d" />
+<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/5735f198-0756-43b8-842b-1fa0f4b9604d" />
+<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/433f4e11-fe01-4d51-b5b8-addfc7f7d33f" />
+<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/24c77d93-3370-4fad-8f86-e69b1d3ff0b6" />
+
 
 ## Objectives
 
@@ -28,7 +31,7 @@ Support early intervention without specialized diagnostic equipment
 
 ## System Architecture
 
-<imgwidth="640" height="665"alt="image" src="https://github.com/user-attachments/assets/ae64e621-e6fa-47c3-bbbc-ed7e87a2c214" />
+<imgwidth="640" height="665" alt="image" src="https://github.com/user-attachments/assets/ae64e621-e6fa-47c3-bbbc-ed7e87a2c214" />
 
 Frontend Layer: Mobile/Web interface for image capture
 
