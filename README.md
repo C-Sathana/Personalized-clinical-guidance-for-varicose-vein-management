@@ -68,6 +68,8 @@ Suitable for mobile deployment and rural healthcare use.
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/ba0927d6-fb88-4f17-b4d3-f9a86a666385" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/c0083740-7f5c-4ade-97a3-95f900d8b12c" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/53554a5c-9367-4206-92ae-8a79d6f4dc4a" />
+<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/abf2d610-9bc8-4dce-bcdd-27969d36c308" />
+
 
 ## Get started
 
