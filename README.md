@@ -60,6 +60,8 @@ Suitable for mobile deployment and rural healthcare use.
 
 <img width="194" height="353" alt="image" src="https://github.com/user-attachments/assets/e8e8a7f1-07f1-4c2c-83ec-07091d86d0e5" />
 
+![App (1)](https://github.com/user-attachments/assets/6137a08e-67f3-4f3f-88a5-801d94370374)
+
 <img width="195" height="388" alt="image" src="https://github.com/user-attachments/assets/df5ef874-6ff9-4a46-91ac-e7f52d7fe5c0" />
 
 
