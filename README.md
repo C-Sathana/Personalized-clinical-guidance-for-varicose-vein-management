@@ -59,10 +59,16 @@ Suitable for mobile deployment and rural healthcare use.
 ## App
 
 <img width="194" height="353" alt="image" src="https://github.com/user-attachments/assets/e8e8a7f1-07f1-4c2c-83ec-07091d86d0e5" />
+
 <img width="720" height="1532" alt="image" src="https://github.com/user-attachments/assets/ce54d1b8-6ca8-471f-a018-f686d72d145c" />
+
+
 <img width="720" height="1532" alt="image" src="https://github.com/user-attachments/assets/bbdb76a9-68a0-4785-8cfe-ee7525b34e36" />
+
 <img width="195" height="388" alt="image" src="https://github.com/user-attachments/assets/df5ef874-6ff9-4a46-91ac-e7f52d7fe5c0" />
+
 <img width="190" height="383" alt="image" src="https://github.com/user-attachments/assets/43f7780a-697a-4d71-99ba-b5ec1f806e09" />
+
 <img width="310" height="601" alt="image" src="https://github.com/user-attachments/assets/e616283c-037c-4e2d-ab5e-561b7efe69cd" />
 
 ## Get started
