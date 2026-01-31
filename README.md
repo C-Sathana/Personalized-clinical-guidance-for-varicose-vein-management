@@ -14,7 +14,7 @@ This project presents an AI-powered system for early detection and management of
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/c0083740-7f5c-4ade-97a3-95f900d8b12c" />
 <img width="265" height="557" alt="image" src="https://github.com/user-attachments/assets/5735f198-0756-43b8-842b-1fa0f4b9604d" />
 
-##Objectives
+## Objectives
 
 Automatically detect varicose veins from leg images
 
@@ -26,8 +26,9 @@ Enable location-based specialist referrals
 
 Support early intervention without specialized diagnostic equipment
 
-##System Architecture
-<img width="1024" height="1064" alt="image" src="https://github.com/user-attachments/assets/ae64e621-e6fa-47c3-bbbc-ed7e87a2c214" />
+## System Architecture
+
+<imgwidth="640" height="665"alt="image" src="https://github.com/user-attachments/assets/ae64e621-e6fa-47c3-bbbc-ed7e87a2c214" />
 
 Frontend Layer: Mobile/Web interface for image capture
 
@@ -41,9 +42,9 @@ Inference Engine: Weighted ensemble for accurate classification
 
 Guidance Engine: Personalized advice, alerts, and expert recommendations
 
-##Results
-<img width="1888" height="791" alt="image" src="https://github.com/user-attachments/assets/a1bfdb88-03df-41fe-a071-a4bb5dcb7a6e" />
-<img width="1784" height="782" alt="image" src="https://github.com/user-attachments/assets/278cc2ef-0ddf-4344-913d-098b217272e5" />
+## Results
+<img width="1416" height="593" alt="image" src="https://github.com/user-attachments/assets/a1bfdb88-03df-41fe-a071-a4bb5dcb7a6e" />
+<img width="1338" height="587" alt="image" src="https://github.com/user-attachments/assets/278cc2ef-0ddf-4344-913d-098b217272e5" />
 
 
 Achieved ~96.9% validation accuracy
