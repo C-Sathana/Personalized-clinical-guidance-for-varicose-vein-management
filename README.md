@@ -57,7 +57,8 @@ Robust performance under varying lighting and image quality
 Suitable for mobile deployment and rural healthcare use.
 
 ## App
-![Map](<App (6).jpg>) ![Register Page ]![alt text](image.png)(<App (1).jpg>) ![Successful](<App (2).jpg>) ![Login in]![alt text](image-1.png)(<App (3).jpg>) ![Permission](<App (4).jpg>) ![Permission] (<App (5).jpg>)![Home UI ](image-2.png) ![Scanning](image-3.png)!![Result](image-4.png)![Recommentation](image-5.png)[Training](<Screenshot (1114).png>)
+<img width="190" height="383" alt="image" src="https://github.com/user-attachments/assets/43f7780a-697a-4d71-99ba-b5ec1f806e09" />
+
 
 ## Get started
 
