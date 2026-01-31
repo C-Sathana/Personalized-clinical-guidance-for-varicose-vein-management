@@ -1,4 +1,4 @@
-<img width="309" height="634" alt="image" src="https://github.com/user-attachments/assets/e10519cd-a46b-4d56-9d48-1d5d85f793fa" />This project presents an AI-powered system for early detection and management of varicose veins using smartphone-acquired images. The solution automatically classifies disease severity using deep learning and provides personalized clinical guidance, preventive care, and specialist referrals, enabling non-invasive and accessible healthcare screening.
+This project presents an AI-powered system for early detection and management of varicose veins using smartphone-acquired images. The solution automatically classifies disease severity using deep learning and provides personalized clinical guidance, preventive care, and specialist referrals, enabling non-invasive and accessible healthcare screening.
 
 🎯 Objectives
 
@@ -67,8 +67,7 @@ Suitable for mobile deployment and rural healthcare use.
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/53919d2f-0383-4600-9ec6-b4eacb7d1937" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/ba0927d6-fb88-4f17-b4d3-f9a86a666385" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/c0083740-7f5c-4ade-97a3-95f900d8b12c" />
-<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/53554a5c-9367-4206-92ae-8a79d6f4dc4a" />
-<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/abf2d610-9bc8-4dce-bcdd-27969d36c308" />
+<img width="276" height="554" alt="image" src="https://github.com/user-attachments/assets/6b7ae8d0-5166-488d-8ee1-5b69e5fec742" />
 
 
 ## Get started
