@@ -57,6 +57,12 @@ Robust performance under varying lighting and image quality
 Suitable for mobile deployment and rural healthcare use.
 
 ## App
+
+<img width="194" height="353" alt="image" src="https://github.com/user-attachments/assets/e8e8a7f1-07f1-4c2c-83ec-07091d86d0e5" />
+
+<img width="195" height="388" alt="image" src="https://github.com/user-attachments/assets/df5ef874-6ff9-4a46-91ac-e7f52d7fe5c0" />
+
+
 <img width="190" height="383" alt="image" src="https://github.com/user-attachments/assets/43f7780a-697a-4d71-99ba-b5ec1f806e09" />
 
 
