@@ -62,21 +62,12 @@ Suitable for mobile deployment and rural healthcare use.
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/292072e7-3b36-4f5a-ad2d-ce2830178ec7" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/89d2ee8f-a88d-4b5a-b7fd-9615f01c0ee7" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/e3a2a2ae-e741-4a02-b5e3-9ada18fedee2" />
-<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/c0083740-7f5c-4ade-97a3-95f900d8b12c" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/d0f66195-5e1c-4a16-98b8-71d1693f7157" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/0760a926-2cd9-4bfe-9949-21c96358e146" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/53919d2f-0383-4600-9ec6-b4eacb7d1937" />
+<img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/c0083740-7f5c-4ade-97a3-95f900d8b12c" />
 <img width="303" height="551" alt="image" src="https://github.com/user-attachments/assets/ba0927d6-fb88-4f17-b4d3-f9a86a666385" />
-
-
-
-
-
-
-
-
-
-
+<img width="751" height="1599" alt="image" src="https://github.com/user-attachments/assets/53554a5c-9367-4206-92ae-8a79d6f4dc4a" />
 
 ## Get started
 
